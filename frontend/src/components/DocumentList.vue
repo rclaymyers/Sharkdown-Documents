@@ -157,6 +157,7 @@ const deleteDocument = (documentId: number): void => {
   max-width: 100vw;
   justify-content: space-around;
   flex-wrap: wrap;
+  overflow: auto;
 }
 .document-card {
   position: relative;
