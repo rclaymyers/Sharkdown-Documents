@@ -14,7 +14,6 @@ import { UtilitiesService } from "../services/utils";
 import type { Gallery } from "../../../sharedModels/Gallery";
 import {
   Bars3Icon,
-  DocumentIcon,
   DocumentPlusIcon,
   EyeIcon,
   PencilIcon,
